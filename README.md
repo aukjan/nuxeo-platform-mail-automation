@@ -1,5 +1,6 @@
 nuxeo-platform-mail-automation
 ==============================
+[ ![Codeship Status for aukjan/nuxeo-platform-mail-automation](https://www.codeship.io/projects/89d595c0-247e-0132-f691-7a18c3a15c1b/status)](https://www.codeship.io/projects/36874)
 
 ## What is this project ?
 
